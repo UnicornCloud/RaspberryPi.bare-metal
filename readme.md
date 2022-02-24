@@ -1,2 +1,2 @@
-# RaspberryPi network booting
+# RaspberryPi.bare metal & Network Booting
 

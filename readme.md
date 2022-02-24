@@ -1,2 +1,2 @@
-# RaspberryPi.network-boot
+# RaspberryPi network booting
 

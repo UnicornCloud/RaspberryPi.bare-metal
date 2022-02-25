@@ -9,6 +9,9 @@ sch: https://www.google.com/search?q=raspberry+pi+network+boot , https://www.goo
 
 # Course:
 ## paid
-- https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/ , https://openfaas.gumroad.com/l/netbooting-raspberrypi
+### by: Alex Ellis
+- blog: https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/
+- course: https://openfaas.gumroad.com/l/netbooting-raspberrypi
+- article: https://thenewstack.io/bare-metal-in-a-cloud-native-world/
 
 ## src:
